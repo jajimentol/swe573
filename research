@@ -8,3 +8,9 @@ Git allows non-linear development in a team, with branching and merging features
 Branch is a term for version labeling of a software. A branch has its own version history, separated from other branches, making it unique.
 Merge is a term for mixing two branch into one, so that some parts in one branch, can also be used in the other branch. 
 The most useful advantage of git is, it makes large projects maintainable, scalable and trackable.
+
+------------------- EFFORT TRACKING -------------------
+
+Task: Study and research git as a version management system
+Duration: 1 hour 30 minutes
+Type of work: Research, report, test and study
