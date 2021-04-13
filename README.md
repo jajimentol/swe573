@@ -8,3 +8,5 @@ This README.md will be updated every week.
 Week 1 - Git Research / WikiData research added.
 
 Week 2 - Requirements Elicitation on Project Case 
+
+Week 3 - Requirements Validation on Project Case 
