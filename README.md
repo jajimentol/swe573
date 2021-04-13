@@ -5,7 +5,7 @@ This is a GitHub repository for SWE573 course. You may find any detailed info be
 
 This README.md will be updated every week.
 
-Week 1 - Git Research / WikiData research added.
+Week 1 - Git Research / WikiData research
 
 Week 2 - Requirements Elicitation on Project Case 
 
