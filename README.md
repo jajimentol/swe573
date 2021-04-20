@@ -11,4 +11,4 @@ Week 2 - Requirements Elicitation on Project Case
 
 Week 3 - Requirements Validation on Project Case 
 
-Week 3 - Extending Requirements on Project Case 
+Week 4 - Requirements Specification - Finalized
