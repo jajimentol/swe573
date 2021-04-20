@@ -10,3 +10,5 @@ Week 1 - Git Research / WikiData research
 Week 2 - Requirements Elicitation on Project Case 
 
 Week 3 - Requirements Validation on Project Case 
+
+Week 3 - Extending Requirements on Project Case 
