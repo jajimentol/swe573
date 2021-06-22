@@ -14,3 +14,5 @@ Week 3 - Requirements Validation on Project Case
 Week 4 - Requirements Specification - Finalized
 
 Week 5 - Project Planning
+
+Final Project
